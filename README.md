@@ -9,7 +9,7 @@ In this work, our objective is to analyze the elements contributing to the expre
 
 The data utilized is sourced from the [Aligned Scores and Performances (ASAP) dataset](https://github.com/fosfrancesco/asap-dataset), which comprises aligned musical scores in both MIDI and MusicXML formats, alongside corresponding performances in audio and MIDI formats. Each entry in the dataset is annotated with downbeat, beat, time signature, and key signature information.
 
-For our analysis, we choose to focus on the [Mozart's Piano Sonatas No. 8](https://github.com/fosfrancesco/asap-dataset/tree/master/Mozart/Piano_Sonatas/8-1) subcorpus.
+For our analysis, we choose to focus on the [Mozart's Piano Sonata n°8 I](https://github.com/fosfrancesco/asap-dataset/tree/master/Mozart/Piano_Sonatas/8-1) subcorpus.
 
 ## Instructions
 ### Task A (Listening and analyzing)
